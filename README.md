@@ -4,9 +4,9 @@
 A machine learning web app that predicts the likelihood of a brain stroke based on health data such as age, BMI, glucose level, and lifestyle factors.
 
 📌 Features
-Predicts stroke likelihood using a trained ML model
-User-friendly web interface built with Flask
-Accepts key health inputs and gives real-time results
+   1. Predicts stroke likelihood using a trained ML model
+   2. User-friendly web interface built with Flask
+   3. Accepts key health inputs and gives real-time results
 
 🚀 How to Run
 Clone the repo
