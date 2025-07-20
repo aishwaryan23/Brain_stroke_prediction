@@ -35,6 +35,8 @@ python app.py
 Then open http://127.0.0.1:5000 in your browser.
 
 ## 🧠 Model Details
+```bash
 Trained on a stroke prediction dataset (e.g. Kaggle)
 Uses scikit-learn pipeline with encoders and classifiers
 Key features: age, hypertension, heart_disease, avg_glucose_level, bmi, etc.
+```
